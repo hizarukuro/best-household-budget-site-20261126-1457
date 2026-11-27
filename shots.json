@@ -1,0 +1,6 @@
+[
+  { "file": "1-dashboard.jpg", "path": "#/", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "2-planner.jpg", "path": "#/planner", "viewport": { "width": 1280, "height": 800 }, "note": "Dining-out budget edited down to Rp 700.000 during the render pass, so the live over-budget flag shows." },
+  { "file": "3-goals.jpg", "path": "#/goals", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "4-dashboard-phone.jpg", "path": "#/", "viewport": { "width": 390, "height": 844 } }
+]
